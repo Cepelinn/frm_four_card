@@ -29,6 +29,7 @@ body{
 }
 
 .about{
+  text-align: center;
   margin: 18px 35px 0 40px;
   letter-spacing: 0.02rem;
   line-height: 1.6rem;
@@ -50,6 +51,8 @@ body{
   position: relative;
   border-bottom: 1px solid black;
   box-shadow: 5px 5px 19px 0px rgba(34, 60, 80, 0.2);
+  -webkit-box-shadow: 5px 5px 19px 0px rgba(34, 60, 80, 0.2);
+  -moz-box-shadow: 5px 5px 19px 0px rgba(34, 60, 80, 0.2);
 }
 
 .card-title{
